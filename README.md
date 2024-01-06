@@ -1,1 +1,1 @@
-## DApp World Contest-11 problem solutions
+## DApp-World Contest-11 solutions
